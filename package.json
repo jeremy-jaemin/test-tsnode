@@ -11,5 +11,8 @@
 	},
 	"devDependencies": {
 		"ts-node": "^10.9.1"
+	},
+	"scripts": {
+		"start": "yarn ts-node index.ts"
 	}
 }
